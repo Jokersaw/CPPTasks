@@ -1,2 +1,2 @@
-# ITMO-CT-C-
+# CPPTasks
 C++ course at Itmo University
