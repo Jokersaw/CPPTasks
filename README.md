@@ -1,7 +1,7 @@
 # CPPTasks
 This repository contains implementations of several tasks from the C++ course at ITMO University:
 
-1. **📌 [BigInt (Длинная арифметика)](./bigint/)**  
+1. **📌 [BigInt](./bigint/)**  
    Implementation of long arithmetic for working with integers of arbitrary length.
 
 2. **📌 [SoCow-Vector](./socow-vector/)**  
